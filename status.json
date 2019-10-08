@@ -1,0 +1,13 @@
+{
+	git: {
+		commands: {
+			clone: "git clone <repo url>",
+			pull: "git pull origin <remote-branch-name>"
+			status: "git status",
+			diff: "git diff <fiel-path>",
+			add: "git add <file-path>",
+			commit: "git commit -m '<Meaningful message>'",
+			push: "git push origin <remote-branch-name>"
+		}
+	}
+}
